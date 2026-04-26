@@ -17,4 +17,10 @@
   &:active {
     scale: 1.05;
   }
+
+  &:disabled {
+    background-color: var(--color-gray-3);
+    border-color: var(--color-gray-3);
+    cursor: not-allowed;
+  }
 }
