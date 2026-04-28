@@ -1,1 +1,1 @@
-{tasks:[{id:'123',title:'meow',isDone:false},{title:'1',isDone:false,id:'B-21I8iTHGw'},{title:'2',isDone:false,id:'7CQi0O9qJNU'}],$schema:'./node_modules/json-server/schema.json'}
+{tasks:[{id:'123',title:'meow',isDone:true},{title:'1',isDone:true,id:'B-21I8iTHGw'},{title:'2',isDone:false,id:'7CQi0O9qJNU'},{title:'1',isDone:false,id:'x3LUMTmtBxs'},{title:'2',isDone:false,id:'GLhS-Rsv1e4'},{title:'3',isDone:false,id:'ZapjrugeL0E'},{title:'123',isDone:false,id:'aep8Tz6Zh6A'}],$schema:'./node_modules/json-server/schema.json'}
